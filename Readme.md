@@ -20,7 +20,7 @@ Run game through command line with following options:
 ```bash
 
 # using python interpreter directly:
-python3 -m firework
+python3 firework
 
 # or the Makefile:
 make run
