@@ -1,4 +1,4 @@
-# flappening
+# Firework
 
 ## Installation _(from source)_
 
